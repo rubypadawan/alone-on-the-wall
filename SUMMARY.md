@@ -2,5 +2,5 @@
 
 * [readme](README.md)
 * [Предисловие.](00_introduction.md)
-* [First Chapter](chapter1.md)
+* [Глава 1. Лунный свет.](01_chapter.md)
 
